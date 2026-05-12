@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Riya-bhagat
-- 👀 I’m interested in APP DEVELOPMENT
-- 🌱 I’m currently learning Flutter,kotlin,python and Html
+- 👀 I’m interested in DataScience
+- 🌱 I’m currently learning python, DSA
 
 - 📫 How to reach me...reach me on Instagram  id- riya_bhagat_05
 
